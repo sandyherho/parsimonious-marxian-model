@@ -1,11 +1,17 @@
 # Supplementary Material: Towards a Parsimonious Computational Marxian Model
 
+[![DOI](https://zenodo.org/badge/961695267.svg)](https://doi.org/10.5281/zenodo.15164962)
+[![Python Versions](https://img.shields.io/badge/python-3.8%20%7C%203.9%20%7C%203.10-blue.svg)](https://www.python.org/downloads/)
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+
 ## Authors
 - Sandy H. S. Herho
+  - Department of Earth and Planetary Sciences, University of California, Riverside
 - Siti N. Kaban
+  - Financial Engineering Program, WorldQuant University
 
 ## Abstract
-This repository contains the computational implementation, data, and supplementary materials for our research on a parsimonious Marxian economic model. The project explores worker-capital dynamics through a minimal yet robust computational approach.
+A parsimonious computational Marxian model exploring dynamic interactions between workers and capital.
 
 ## Repository Structure
 ```
