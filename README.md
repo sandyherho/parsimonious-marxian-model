@@ -32,7 +32,7 @@ This repository contains the computational implementation, data, and supplementa
 
 ## Installation
 ```bash
-git clone https://github.com/username/parsimonious-marxian-model.git
+git clone https://github.com/sandyherho/parsimonious-marxian-model.git
 cd parsimonious-marxian-model
 pip install -r requirements.txt
 ```
