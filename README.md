@@ -71,7 +71,7 @@ If you use this model or code in your research, please cite as:
 
 ```bibtex
 @article{herho2025parsimonious,
-  title = {Towards a Parsimonious Computational Marxian Model},
+  title = {{Towards a Parsimonious Computational Marxian Model}},
   author = {Herho, Sandy H. S. and Kaban, Siti N.},
   year = {2025},
   journal = {[Journal Name]},
